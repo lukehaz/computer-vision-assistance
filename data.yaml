@@ -1,0 +1,14 @@
+path: C:\Users\lukeh\OneDrive\Desktop\school\spring 2024\Capstone\data1.yolov8-obb
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: boundary
+  1: drivable_area
+  2: drivable_road
+  3: elevator
+  4: road
+  5: slope
+  6: stair
